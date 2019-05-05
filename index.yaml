@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webstore:
+  - appVersion: 0.0.1
+    created: 2019-05-05T13:07:05.540698+05:30
+    description: Helm chart for webstore application
+    digest: cce79e32aec92cbb0a323712f96706102bbf3ab1a7e57ff59bc08152b54879c0
+    keywords:
+    - webstore
+    name: webstore
+    urls:
+    - https://atmaramnaik.github.io/webstore/webstore-0.0.3.tgz
+    version: 0.0.3
+generated: 2019-05-05T13:07:05.53868+05:30
